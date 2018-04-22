@@ -1,8 +1,7 @@
 # splash_screen
 
-A new Flutter application.
+Exploring flutter :)
 
-## Getting Started
+Simple Splash screen
 
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+<a href="https://gfycat.com/gifs/detail/UnhealthyGlitteringHammerheadshark"><img src=https://thumbs.gfycat.com/UnhealthyGlitteringHammerheadshark-size_restricted.gif></a>
